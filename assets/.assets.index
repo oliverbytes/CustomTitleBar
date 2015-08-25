@@ -1,0 +1,9 @@
+1
+7
+images/icon.png
+images/titlebar/camera.png
+images/titlebar/close.png
+images/titlebar/logo.png
+images/titlebar/settings.png
+main.qml
+nemory/components/CustomTitleBar.qml
